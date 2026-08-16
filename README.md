@@ -8,6 +8,7 @@ This repository contains the code reproducing the numerical examples of the pape
 ### Dependencies
 - MATLAB (R2021b or later recommended).
 - [CORA 2022 Toolbox](https://tumcps.github.io/CORA/) — zonotope, matrix zonotope and interval matrix classes.
+- [CoGoV Toolbox](https://github.com/vinz-uts/CoGoV/) — useful for the main ZR-CG class.
 - [YALMIP](https://yalmip.github.io/) — modelling interface for the online QP and the offline LMI.
 - A QP/SDP solver, e.g. [Gurobi](https://www.gurobi.com) (used in the paper).
 
