@@ -54,13 +54,13 @@ util/
                                    % between the exact and the proposed sets
 illustrative_example/
     main_illustrative.m            % second-order example: identification of M_cl,
-                                   % interval hull, projections (Fig. 1) and
-                                   % reachable set evolution (Fig. 2)
+                                   % interval hull, projections (Figure 1) and
+                                   % reachable set evolution (Figure 2)
 mass_spring_damper/
     main_ZRCG.m                    % full supervision example: data collection,
                                    % identification, stability certificate,
                                    % terminal margins, closed-loop simulation
-                                   % (Figs. 3-5, Table II)
+                                   % (Figures 3-5, Table II)
 ```
 
 ---
